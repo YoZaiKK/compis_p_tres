@@ -65,3 +65,10 @@ f.close() # Cerramos el archivo
 
 #Estado_final = funcion(Sigma, input("Introduzca cadena: "), Epsilon, EdoInicial, EdosAceptacion) #Pedimos la cadena y Comenzamos el analisis de la cadena con el automata 
 #print(f'Estados finales:\n{Estado_final}') #Mostramos estados finales 
+
+
+prueba = [1,2,3,4]
+print(f'{prueba}')
+stdy = []
+prueba.extend(stdy)
+print(f'{prueba}')
